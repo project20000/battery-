@@ -1,0 +1,5 @@
+{
+  "name": "Battery Manufacturing Process Dashboard",
+  "description": "An interactive dashboard for visualizing lithium-ion battery production metrics, process timelines, components, and temperature safety thresholds.",
+  "requestFramePermissions": []
+}
